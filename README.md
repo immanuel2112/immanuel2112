@@ -1,6 +1,6 @@
 # 💫 About Me:
-I am a data specialist working on data migration, data quality and data governance solutions.
-I am also fancy programming and automation that I fancy being a pro automator in designing and developing out of the box solutions for data projects.
+I am primarily a data architect working on data migration, quality, governance, and MDM solutions.
+I am also fancy programming and automation, which enables me as a pro-Automator in designing and developing out-of-the-box solutions for data projects.
 
 
 ## 🌐 Socials:
